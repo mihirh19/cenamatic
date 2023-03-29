@@ -1,0 +1,12 @@
+{
+   "files.autoSave": "afterDelay",
+   "files.associations": {
+      "*.html": "html",
+      "*.jsx": "javascriptreact"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+      "django-html": "html",
+      "javascript": "javascriptreact"
+  },
+}
